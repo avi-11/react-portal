@@ -56,6 +56,7 @@ $ npm start
 -   [Rohan Mehta](https://rhnmht30.dev)
 -   [Mayank Shakya](https://github.com/mayanksh99)
 -   [Aniket Padmaansh](https://github.com/padmansh)
+-   [Avaneesh Singh](https://github.com/avi-11)
 
 <br>
 <br>
